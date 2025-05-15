@@ -6,8 +6,8 @@ This is the backend server for the Elevator Simulator project, built with Node.j
 
 1. Clone the Repository
 git clone https://github.com/theandreahh/the-simulator-backed.git
-cd the-simulator-backed
-npm install
-npm run dev
-npm start
+2. cd the-simulator-backed
+3. npm install
+4. npm run dev
+5. npm start
 http://localhost:5050
